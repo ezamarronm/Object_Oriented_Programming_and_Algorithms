@@ -1,5 +1,5 @@
 # Object_Oriented_Programming_and_Algorithms
-Platzi OOP and Algorithms Course
+Platzi OOP and Algorithms Course\n
 Modules
 101: Python Basics
 OOP: Abstraction, encapsulation, inheritance and polymorphism excersices
