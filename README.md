@@ -1,6 +1,6 @@
 # Object_Oriented_Programming_and_Algorithms
-#Platzi OOP and Algorithms Course  
-##Modules<br/>
+## Platzi OOP and Algorithms Course  
+### Modules<br/>
 101: Python Basics  
 OOP: Abstraction, encapsulation, inheritance and polymorphism excersices  
 Searching An dOrdering Algorithms: binary search, linear search, bubble sort, insertion sort,  merge sort.  
